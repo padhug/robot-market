@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.robotHeader  {
+  padding: 30px 50px;
+  background: rgb(156, 156, 228);
+  margin: 0;
+  font-size: xx-large;
+  text-align: center;
+  color: #fff;
+  font-weight: 800;
+}
