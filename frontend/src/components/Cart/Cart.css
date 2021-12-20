@@ -41,3 +41,8 @@
   border-bottom: 1px  solid rgb(156, 156, 228);
   padding-top: 20px;
 }
+
+.cartItemQtyBtn {
+  margin: 0 10px;
+}
+
